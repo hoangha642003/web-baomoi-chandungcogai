@@ -1,0 +1,66 @@
+.MENU{
+  margin-left: 350px;
+  padding: 2px;
+}
+.hayvn{
+  margin-right: 500px;
+  box-shadow: none;
+  padding: 10px;
+  border-bottom: red;
+}
+.chitiet{
+  list-style: 12px;
+  background: rgb(194, 178, 178);
+  padding: 5px;
+  border: 1px solid;
+  position: relative;
+  color:rgb(17, 11, 11);
+  
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+}
+
+.container {
+  background: rgb(248, 237, 239);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+article {
+  border-top: 1px solid #ccc;
+  padding-top: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin: 20px 0 10px;
+}
+
+img.featured-image {
+  max-width: 100%;
+  display: block;
+  margin: 20px auto;
+}
+.chu{
+  background: goldenrod;
+}
+.END{
+  background: rgb(192, 214, 171);
+}
